@@ -54,6 +54,8 @@ CDK Developer Guide: https://docs.aws.amazon.com/cdk/v2/gu...
 [22] OpenAPI Specs Without Deploying First: https://matt.martz.codes/openapi-spec...
 [23] Serverless Stack Framework: https://serverless-stack.com
 
+Cloud9 Config
+-------------
 [15] Cross-account CI/CD Pipeline with CDK Pipelines:
 https://catalog.us-east-1.prod.workshops.aws/workshops/874d349f-85f6-495d-9475-ff7b7b23201f/en-US/01-introduction/prep
 
@@ -62,8 +64,7 @@ Tutorial: Launch an EC2 Instance With AWS CDK - and connect to it
 https://www.youtube.com/watch?v=NdXObSaMElo
 aws ssm start-session --target <instance-id>
 
-aws-cdk-examples/python/ec2/instance   
-
-
+https://github.com/aws-samples/aws-cdk-examples
+https://github.com/aws-samples/aws-cdk-examples/python/ec2/instance   
 
 #>
